@@ -1,0 +1,13 @@
+Moddel outputs
+
+1. Decision Tree:
+    Mean : 4.157337184796915
+    Standard deviation : 0.6418185635288459
+
+2. Linear Regression:
+    Mean : 5.03658765041224
+    Standard deviation : 1.0500156348233258
+
+3. Random Forest Regresssor
+    Mean : 3.359159989086032
+    Standard deviation : 0.7985962581406212
